@@ -1,0 +1,4 @@
+Go into settings.txt and edit your settings. There are some settings that need to be changed in order for this program to work.
+As of now, you can only manually call the update method. There is no documentation, so you will need to go through the "update.py" function in "UGManager".
+When calling the update method, please import the UGManager and call the "update" function, required arguments are in the UGManager.py file, but you may have to do some searching.
+One or two external libraries are required for this to work, when running the UGManager to update your files, it will (in most or all cases) tell you what you are missing.
