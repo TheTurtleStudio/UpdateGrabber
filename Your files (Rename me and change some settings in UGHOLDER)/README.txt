@@ -1,0 +1,1 @@
+Put your files in here and delete this file. Change the GLOBAL_DIRECTORY_PATH setting to whatever you renamed the parent folder of this file.
